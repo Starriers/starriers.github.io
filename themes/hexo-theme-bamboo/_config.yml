@@ -337,3 +337,6 @@ CDN:
   ayuJs: https://cdn.jsdelivr.net/npm/v-plugs-ayu/lib/ayu.umd.min.js
   copyRight: https://creativecommons.org/licenses/by-nc-nd/4.0/
   live2d: https://cdn.jsdelivr.net/gh/yuang01/live2d-widget@latest/autoload.js
+
+
+baidu_tongji: true
