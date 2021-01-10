@@ -14,7 +14,7 @@
       </div>
       <% } %>
       <div class="post-tags-categories">
-        <% if (page.tags.length > 0) { %>
+        <% if (page.tags.length !== 0) { %>
         <div class="tags">
           <i class="iconfont icontag"></i>
           <% page.tags.map(function(tag) { %>
